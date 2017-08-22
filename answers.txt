@@ -1,0 +1,39 @@
+1. I'm starting to work more and more with big data sets in my own research
+	(linguistics) and I want to learn better ways to analyze and visualize the
+	data, for presentations and my own ability to see patterns.
+
+2. Brush up on some ML techniques and learn the best ways to graph data, considering
+	the type of data/pattern/etc.
+
+3. Python, Scala, R
+
+4. Python
+
+5. Only simple 2d line graphs in R (ggplot2)
+
+6. Dealt with creating word embeddings for tokens in a 100 million tweet corpus. Used
+ 	word2vec implements in Python's gensim library.
+
+7. A graph from a presentation at a conference. The graph showed response times and
+	used color and spatial juxtaposition to really drive home difference between the
+	two tested populations.
+
+8. After browsing viz.wtf for 5 minutes, I've lost count....
+
+9. Scala, R: Good enough to Google answers to most questions. Python: Good enough to
+	understand the one snarky Stackoverflow commenter that answers the complex question
+	with a single line of code.
+	tl;dr - Scala, R - 40%, Python - 80%
+
+10. Better than most linguists, not as good as most CS grads. 30%
+
+11. Yes, used git a lot.
+
+12. Spent the past year using it a lot.
+
+13. Spent the past year using it a lot.
+
+14. Spent the summer doing an NLP internship for a start-up that was building a 
+	social media app that frontlines emojis. I'd probably talk about emojis 
+	because I've been so inundated with them, not because I'm particularly
+	interested in them.... 
